@@ -148,7 +148,7 @@
     
     "menu" : [
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -158,7 +158,7 @@
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/1.png",
             "bg" : "#FBBF24"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "spinner",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/2.png",
             "bg" : "#A3E635"
@@ -178,7 +178,7 @@
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/5.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "wallpapers",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/6.png",
             "bg" : "#2196F3"
@@ -188,7 +188,7 @@
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/8.png",
             "bg" : "#673AB7"
