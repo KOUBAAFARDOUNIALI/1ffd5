@@ -153,7 +153,7 @@
             "ico" : "",
             "bg" : "#FB923C"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "puzzle",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/1.png",
             "bg" : "#FBBF24"
@@ -173,7 +173,7 @@
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/4.png",
             "bg" : "#2DD4BF"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "quiz",
             "ico" : "https://raw.githubusercontent.com/KOUBAAFARDOUNIALI/1ffd5/main/ff1/maid5/5.png",
             "bg" : "#4ADE80"
